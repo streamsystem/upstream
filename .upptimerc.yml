@@ -4,12 +4,12 @@ repo: upstream
 sites:
   - name: ssadmin
     url: https://ssadmin.streamsystem.com
-  - name: Assets
-    url: https://assets.stream.dz
   - name: Stream
     url: https://stream.dz
   - name: Bomare Company
     url: https://bomarecompany.com
+  # - name: Assets
+  #   url: https://assets.stream.dz
 
 workflowSchedule:
   uptime: "3-58/10 * * * *"
@@ -19,8 +19,8 @@ status-website:
   baseUrl: /upstream
   logoUrl: https://ssadmin.streamsystem.com/favicon.svg
   name: Upstream
-  introTitle: "Upstream uses **Upptime**, which is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: UPSTREAM
+  introTitle: "**Upstream**"
+  introMessage: "Upstream uses Upptime, which is the open-source uptime monitor and status page, powered entirely by GitHub."
   navbar:
     - title: Status
       href: /
