@@ -11,18 +11,26 @@ sites:
   # - name: Assets
   #   url: https://assets.stream.dz
 
+delay: 2000
 workflowSchedule:
-  uptime: "3-58/10 * * * *"
+  # graphs: "0 0 * * *"
+  # responseTime: "0 23 * * *"
+  # staticSite: "0 1 * * *"
+  # summary: "0 0 * * *"
+  # updateTemplate: "0 0 * * *"
+  # updates: "0 3 * * *"
+  uptime: "3-53/10 * * * *"
 
 status-website:
   # cname: upstream.streamsystem.com
   baseUrl: /upstream
   logoUrl: https://ssadmin.streamsystem.com/favicon.svg
+  faviconSvg: https://ssadmin.streamsystem.com/favicon.svg
   name: Upstream
   introTitle: "**Upstream**"
   introMessage: "Upstream uses Upptime, which is the open-source uptime monitor and status page, powered entirely by GitHub."
   navbar:
     - title: Status
-      href: /
+      href: /upstream
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
