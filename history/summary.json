@@ -4,19 +4,19 @@
     "url": "https://ssadmin.streamsystem.com",
     "icon": "https://icons.duckduckgo.com/ip3/ssadmin.streamsystem.com.ico",
     "slug": "ssadmin",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "98.62%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 1197,
-    "timeDay": 784,
-    "timeWeek": 1223,
-    "timeMonth": 1197,
-    "timeYear": 1197,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "97.98%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 1253,
+    "timeDay": 1298,
+    "timeWeek": 1346,
+    "timeMonth": 1253,
+    "timeYear": 1253,
     "dailyMinutesDown": {
-      "2025-01-21": 20
+      "2025-01-21": 29
     }
   },
   {
