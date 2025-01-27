@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ssadmin.streamsystem.com.ico",
     "slug": "ssadmin",
     "status": "up",
-    "uptime": "99.76%",
+    "uptime": "99.77%",
     "uptimeDay": "96.50%",
     "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
     "time": 1119,
     "timeDay": 553,
     "timeWeek": 923,
@@ -25,10 +25,10 @@
     "url": "https://stream.dz",
     "icon": "https://icons.duckduckgo.com/ip3/stream.dz.ico",
     "slug": "stream",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "97.17%",
-    "uptimeWeek": "99.26%",
+    "uptimeDay": "97.13%",
+    "uptimeWeek": "99.25%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.75%",
     "time": 1520,
@@ -37,6 +37,7 @@
     "timeMonth": 1520,
     "timeYear": 1520,
     "dailyMinutesDown": {
+      "2025-01-27": 1,
       "2025-01-26": 41,
       "2025-01-25": 15,
       "2025-01-21": 19
@@ -47,7 +48,7 @@
     "url": "https://bomarecompany.com",
     "icon": "https://icons.duckduckgo.com/ip3/bomarecompany.com.ico",
     "slug": "bomare-company",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
     "uptimeDay": "98.74%",
     "uptimeWeek": "99.64%",
@@ -59,6 +60,7 @@
     "timeMonth": 1841,
     "timeYear": 1841,
     "dailyMinutesDown": {
+      "2025-01-27": 0,
       "2025-01-26": 18,
       "2025-01-21": 18
     }
